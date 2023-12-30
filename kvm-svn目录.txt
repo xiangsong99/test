@@ -1,0 +1,9 @@
+
+boot  先烧写boot
+
+branches
+分支、、分支版本
+tags
+标签
+trunk
+躯干、、发布主体版本
